@@ -1,2 +1,2 @@
 # Financial-Models
-Financial Models of Various Stocks listed on NSE
+Financial Models of different Stocks
